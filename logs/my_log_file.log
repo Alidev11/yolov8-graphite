@@ -1,0 +1,72 @@
+Ultralytics YOLOv8.0.43  Python-3.10.4 torch-1.13.1+cpu CPU
+Model summary (fused): 168 layers, 3010718 parameters, 0 gradients, 8.1 GFLOPs
+
+1/1: 0... Success  (inf frames of shape 640x480 at 30.00 FPS)
+
+0: 608x800 (no detections), 3119.1ms
+0: 608x800 (no detections), 2733.0ms
+0: 608x800 (no detections), 2128.0ms
+0: 608x800 (no detections), 1420.6ms
+0: 608x800 (no detections), 971.2ms
+0: 608x800 (no detections), 1323.3ms
+0: 608x800 (no detections), 1247.4ms
+0: 608x800 (no detections), 1029.4ms
+0: 608x800 (no detections), 1409.7ms
+0: 608x800 (no detections), 2250.3ms
+0: 608x800 (no detections), 1669.7ms
+0: 608x800 (no detections), 1336.9ms
+0: 608x800 (no detections), 752.6ms
+0: 608x800 (no detections), 1005.0ms
+0: 608x800 (no detections), 761.2ms
+0: 608x800 (no detections), 1258.5ms
+0: 608x800 (no detections), 2534.6ms
+0: 608x800 (no detections), 947.7ms
+0: 608x800 (no detections), 1872.3ms
+0: 608x800 (no detections), 1848.8ms
+0: 608x800 (no detections), 1849.6ms
+0: 608x800 (no detections), 2062.9ms
+0: 608x800 (no detections), 916.4ms
+0: 608x800 (no detections), 11143.5ms
+0: 608x800 (no detections), 10124.0ms
+0: 608x800 1 Q, 4088.1ms
+0: 608x800 2 Ws, 2019.1ms
+0: 608x800 1 W, 976.2ms
+0: 608x800 1 W, 1428.2ms
+0: 608x800 1 O, 1420.3ms
+0: 608x800 (no detections), 1890.7ms
+0: 608x800 (no detections), 1915.9ms
+0: 608x800 1 F, 1608.4ms
+0: 608x800 1 F, 1856.6ms
+0: 608x800 (no detections), 1807.2ms
+0: 608x800 (no detections), 2568.0ms
+0: 608x800 (no detections), 7657.1ms
+0: 608x800 (no detections), 2538.7ms
+0: 608x800 1 O, 1896.9ms
+0: 608x800 (no detections), 1480.1ms
+0: 608x800 (no detections), 1127.8ms
+0: 608x800 (no detections), 1168.7ms
+0: 608x800 (no detections), 878.4ms
+0: 608x800 1 Q, 1275.9ms
+0: 608x800 (no detections), 1348.9ms
+0: 608x800 (no detections), 1759.0ms
+0: 608x800 1 O, 1 Q, 3670.8ms
+0: 608x800 (no detections), 2485.7ms
+0: 608x800 1 O, 2788.9ms
+0: 608x800 (no detections), 2179.0ms
+0: 608x800 1 Q, 1047.0ms
+0: 608x800 1 Q, 6998.1ms
+0: 608x800 (no detections), 2183.0ms
+0: 608x800 1 Q, 1784.8ms
+0: 608x800 (no detections), 2282.1ms
+0: 608x800 (no detections), 3015.6ms
+0: 608x800 (no detections), 6555.8ms
+0: 608x800 (no detections), 3798.5ms
+0: 608x800 (no detections), 1146.8ms
+0: 608x800 1 O, 1581.0ms
+0: 608x800 1 O, 1125.7ms
+0: 608x800 1 O, 1400.3ms
+0: 608x800 1 O, 1226.2ms
+0: 608x800 (no detections), 1102.6ms
+0: 608x800 1 Q, 2007.0ms
+0: 608x800 (no detections), 2126.8ms
+Speed: 29.0ms preprocess, 2286.8ms inference, 10.8ms postprocess per image at shape (1, 3, 800, 800)
